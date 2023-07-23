@@ -36,3 +36,13 @@ nav a{
     text-decoration: none;
     color: #181818;
 }
+.header {
+    background-color: #FFF8F3;;
+}
+.banner {
+    display: flex;
+    justify-content: space-between;
+}
+.banner .pic{
+    width: 550px;
+}
